@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenbobburi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenbobburi&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naveenbobburi&theme=highcontrast&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&hide_border=true)](https://git.io/streak-stats)
+
+
 
 ## 🏆 GitHub Trophies
 
